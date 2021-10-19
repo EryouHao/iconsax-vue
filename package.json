@@ -1,6 +1,6 @@
 {
   "name": "iconsax-vue",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Iconsax for Vue",
   "main": "bundle/index.common.js",
   "files": [
