@@ -1,4 +1,4 @@
-# juuust-vue-icon
+# iconsax-vue
 
 ## Project setup
 ```

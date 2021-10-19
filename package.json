@@ -1,13 +1,13 @@
 {
-  "name": "juuust-vue-icon",
+  "name": "iconsax-vue",
   "version": "0.1.2",
-  "description": "Juuust Vue Icon, Automation workflow with Figma",
+  "description": "Iconsax for Vue",
   "main": "bundle/index.common.js",
   "files": [
     "dist",
     "es"
   ],
-  "repository": "https://github.com/leadream/juuust-vue-icon.git",
+  "repository": "https://github.com/EryouHao/iconsax-vue.git",
   "scripts": {
     "generate": "sudo rm -rf src/icons && node bin/build.js",
     "serve": "vue-cli-service serve",
